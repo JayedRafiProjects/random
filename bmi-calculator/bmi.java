@@ -1,6 +1,6 @@
 /*******************************
  * 
- * Project: Calculate BMA
+ * Project: Calculate BMI
  * Language: Java
  * Date: May 2021
  * 
@@ -42,7 +42,7 @@
    }
 
 /*******************************
- * Private helper for calculate and show comment
+ * Private helper for evaluation
 *******************************/
  private static String comment(double BMI)
    {
