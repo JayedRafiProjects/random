@@ -1,3 +1,12 @@
+/*******************************
+ * 
+ * Project: calculate n!
+ * Language: Java
+ * Date: May 2021
+ * 
+ * Dev: Jayed Rafi
+ *
+*******************************/
 public class factorial
 {
     public static void main(String[] args)
